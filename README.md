@@ -10,7 +10,8 @@ Certain users to mapNav’s skill choose to interact with mapNav in ways that re
 ## Information We Collect from Other Sources
 
 With your authorization, we also obtain information about you from other sources. When you link your account to Google, we will receive information from that service (such as your address) via an API call to that service.
-Data Retention Policy
+
+## Data Retention Policy
 We will not retain any user provided data.
 
 ## Log Data
